@@ -1,8 +1,0 @@
-C:\Users\Sergey\Desktop\connectDocuments\docxConnector\DocxConnector\bin\Debug\DocxConnector.exe.config
-C:\Users\Sergey\Desktop\connectDocuments\docxConnector\DocxConnector\bin\Debug\DocxConnector.exe
-C:\Users\Sergey\Desktop\connectDocuments\docxConnector\DocxConnector\bin\Debug\DocxConnector.pdb
-C:\Users\Sergey\Desktop\connectDocuments\docxConnector\DocxConnector\bin\Debug\DocumentFormat.OpenXml.dll
-C:\Users\Sergey\Desktop\connectDocuments\docxConnector\DocxConnector\bin\Debug\DocumentFormat.OpenXml.xml
-C:\Users\Sergey\Desktop\connectDocuments\docxConnector\DocxConnector\obj\Debug\DocxConnector.csprojResolveAssemblyReference.cache
-C:\Users\Sergey\Desktop\connectDocuments\docxConnector\DocxConnector\obj\Debug\DocxConnector.exe
-C:\Users\Sergey\Desktop\connectDocuments\docxConnector\DocxConnector\obj\Debug\DocxConnector.pdb
