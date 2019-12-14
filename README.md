@@ -1,4 +1,4 @@
-# connectDocuments
+# ConnectDocuments
 
 docxConnector - Merging multiple docx files to one
 1. Create folder with your docx files.
